@@ -1,21 +1,50 @@
-# Table of contents
+# Summary
 
-* [Dashboard - 看板](README.md)
-* [Data Integration – 数据集成](data-integration-shu-ju-ji-cheng.md)
-* [Crypto Assets - 加密货币资产](crypto-assets-jia-mi-huo-bi-zi-chan/README.md)
-  * [Balance & Pnl - 余额与损益](crypto-assets-jia-mi-huo-bi-zi-chan/balance-pnl-yueyu-sun-yi.md)
-  * [Transactions - 交易明细](crypto-assets-jia-mi-huo-bi-zi-chan/transactions-jiao-yi-ming-xi.md)
-* [Finance - 财务](finance-cai-wu/README.md)
-  * [Journal - 日记账](finance-cai-wu/journal-ri-ji-zhang.md)
-  * [Trail Balance - 余额表](finance-cai-wu/trail-balance-yuebiao.md)
-  * [Closing - 结账](finance-cai-wu/closing-jie-zhang.md)
-  * [Report - 报表](finance-cai-wu/report-bao-biao.md)
-  * [Chart of Accounts - 科目管理](finance-cai-wu/chart-of-accounts-ke-mu-guan-li.md)
-  * [Rule of Account - 会计规则管理](finance-cai-wu/rule-of-account-kuai-ji-gui-ze-guan-li.md)
-  * [Period - 期间管理](finance-cai-wu/period-qi-jian-guan-li.md)
-  * [Report Template - 报表模板管理](finance-cai-wu/report-template-bao-biao-mu-ban-guan-li.md)
-* [System - 系统](system-xi-tong/README.md)
-  * [Organization - 组织架构](system-xi-tong/organization-zu-zhi-jia-gou.md)
-  * [Tags - 标签管理](system-xi-tong/tags-biao-qian-guan-li.md)
-  * [Account Owner - 账户归属](system-xi-tong/account-owner-zhang-hu-gui-shu.md)
-* [Settings - 系统设置](settings-xi-tong-she-zhi.md)
+### Getting Started
+
+* [About this documentation](README.md)
+* [Installation and Setup](setup.md)
+
+### Your Content
+
+* [Directory structure](structure.md)
+* [Pages and Summary](pages.md)
+* [Configuration](config.md)
+* [Glossary](lexicon.md)
+* [Multi-Lingual](languages.md)
+* [Markdown](syntax/markdown.md)
+    * [Headings](syntax/markdown.md#headings)
+    * [Paragraphs](syntax/markdown.md#paragraphs)
+    * [Lists](syntax/markdown.md#lists)
+    * [Links](syntax/markdown.md#links)
+    * [Images](syntax/markdown.md#images)
+    * [Blockquotes](syntax/markdown.md#blockquotes)
+    * [Tables](syntax/markdown.md#tables)
+    * [Code](syntax/markdown.md#code)
+    * [HTML](syntax/markdown.md#html)
+    * [Footnotes](syntax/markdown.md#footnotes)
+* [AsciiDoc](syntax/asciidoc.md)
+* [eBook and PDF](ebook.md)
+
+### Customization
+
+* [Templating](templating/README.md)
+    * [Content References](templating/conrefs.md)
+    * [Variables](templating/variables.md)
+    * [Builtin](templating/builtin.md)
+* [Plugins](plugins/README.md)
+    * [Create a plugin](plugins/create.md)
+    * [Hooks](plugins/hooks.md)
+    * [Blocks](plugins/blocks.md)
+    * [Filters](plugins/filters.md)
+    * [API & Context](plugins/api.md)
+    * [Test your plugin](plugins/testing.md)
+* [Theming](themes/README.md)
+
+--
+
+* [FAQ](faq.md)
+* [Examples](examples.md)
+* [Release History](https://github.com/honkit/honkit/releases)
+
+

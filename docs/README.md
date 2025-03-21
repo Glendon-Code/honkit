@@ -1,33 +1,32 @@
-# Dashboard - 看板
+# HonKit Toolchain Documentation
 
-## **功能概述(Overview):**
+This document aims to be a comprehensive guide to the HonKit command line tool.
 
-`FinTax Suite`提供标准的加密货币资产看板，以便用户可快速地了解每一个组织节点下的加密资产情况，看板中会展示近期净值波动，钱包净值情况，已经资产净值情况。
+### What is HonKit?
 
-## **部分界面UI操作描述(Descriptions of some UI operations):**
+`honkit` is a command line tool (and Node.js library)
+for building beautiful books using GitHub/Git and Markdown (or AsciiDoc).
+This documentation has been generated using `honkit`.
 
-### **展开/收起左侧边栏**
+`honkit` can output your content as a website
+([customizable](themes/README.md) and [extensibles](plugins/README.md))
+or as an ebook (PDF, ePub or Mobi).
 
-<figure><img src=".gitbook/assets/e16a4ef6e4d36c135f45431324fa574.png" alt=""><figcaption><p>收起侧边栏</p></figcaption></figure>
+`honkit` is a fork of [GitBook (Legacy)](https://github.com/GitbookIO/gitbook).
+You can read about compatibility, differences and migration from GitBook
+[here](https://github.com/honkit/honkit#fork-of-gitbook).
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption><p>展开侧边栏</p></figcaption></figure>
+### Help and Support
 
-### **切换语言(Language):**
+If you have problems with the toolchain,
+you can search for or open a discussion on [GitHub](https://github.com/honkit/honkit).
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+### FAQ
 
-### **界面描述和操作(UI Description):**
+Some questions are frequently asked.
+If you have a problem you should [check this out](faq.md) first.
 
-<figure><img src=".gitbook/assets/页面展示-1.png" alt=""><figcaption><p>这是DashBoard首页的展示图</p></figcaption></figure>
+### Contribute to this documentation
 
-<figure><img src=".gitbook/assets/页面展示-2.png" alt=""><figcaption><p>这里点击Current Organization可以展示组织以及下属组织进行查看</p></figcaption></figure>
-
-
-
-* **Current Organization 当前组织** : 所展示数据所对应的组织节点
-* **Total Assets Worth 资产净值** : 展示当前节点下资产的净值
-* **Type of Cryptos 加密资产种类** : 展示当前节点下资产的种类数量
-* **Total Transactions 交易总数** : 展示当前节点下交易总条数
-* **Wallets & Exchanges 钱包&交易所账户** : 展示当前节点下，所以钱包和交易所的净值情况和所占比例
-* **Net Worth 净值变动** : 折线图展示近期节点下净值变动情况
-* **Assets 资产明细** : 列表展示节点下所有加密资产的情况，包括当前价格，当前总数量，以及当前净值
+You can contribute to improve this documentation on [GitHub](https://github.com/honkit/honkit)
+by signaling issues or proposing changes.
